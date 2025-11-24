@@ -1,9 +1,9 @@
 # Mobile App Development 2 - Project Report
 
-**Project Name:** TravelWallet
-**Student Name:** Zihan Wang
-**Student ID:** 2304474
-**Date:** December 15, 2025
+**Project Name:** [TravelWallet]
+**Student Name:** [Zihan Wang]
+**Student ID:** [2304474]
+**Date:** [December 15, 2025]
 
 ---
 
