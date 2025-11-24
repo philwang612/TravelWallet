@@ -1,8 +1,8 @@
 # Mobile App Development 2 - Project Report
 
 **Project Name:** TravelWallet
-**Student Name:** [在此填入你的名字]
-**Student ID:** [在此填入你的学号]
+**Student Name:** Zihan Wang
+**Student ID:** 2304474
 **Date:** December 15, 2025
 
 ---
